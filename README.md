@@ -1,2 +1,2 @@
-# PROJECT-29
-The pyramid towers come under fire from an enemy using an aesthetic but dangerous pentagon
+# p5.play-boilerplate
+Boiler plate for p5.play
